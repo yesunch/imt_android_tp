@@ -6,10 +6,17 @@
     <string name="label_lastname">lastname</string>
     <string name="label_birthday">birthday</string>
     <string name="label_country">country</string>
+    <string name="label_telephone">telephone</string>
+    <string name="label_department">department</string>
     <string name="hint_firstname">firstname</string>
     <string name="hint_lastname">lastname</string>
     <string name="hint_birthday">birthday</string>
     <string name="hint_country">country</string>
+    <string name="hint_telephone">telephone</string>
     <string name="reset_action">reset action</string>
+
+    <string name="err_badformat_number">Sorry, your number is in bad format, please retry.</string>
+
+    <string name="BT_add_tele">add</string>
 
 </resources>
